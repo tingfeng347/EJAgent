@@ -266,6 +266,9 @@ available as an explicit, independently configured policy.
 
 ## Documentation
 
+- [Module configuration and integration guides](src/ejagent/README.md) — defaults,
+  prerequisites, and application-supplied interfaces for each module;
+  [中文](src/ejagent/README_zh-CN.md).
 - [Agent Harness Overview](docs/harness-overview.md) — project scope,
   responsibilities, feedback flow, and current capabilities.
 - [Full Usage Guide](docs/usage-guide.md) — installation, configuration, and

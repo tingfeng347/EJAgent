@@ -237,6 +237,8 @@ mid-Run 暂停／恢复。已支持执行者根据反馈提出执行计划更新
 
 ## 文档
 
+- [模块配置与接入指南](src/ejagent/README_zh-CN.md)：各模块的默认值、前置条件和应用需要提供的接口；
+  [English](src/ejagent/README.md)。
 - [Agent Harness 概览](docs/harness-overview.md)：项目定位、职责、反馈链路和当前能力。
 - [全功能使用指南](docs/usage-guide.md)：安装、配置和全部内置能力的使用方式。
 - [Harness 类与执行链路](docs/core-classes-and-runtime-flow.md)：内部模型与完整 Run
